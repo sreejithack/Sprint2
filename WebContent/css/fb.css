@@ -1,0 +1,129 @@
+
+#body {
+    background-color: #dfe3ee;
+}
+ #background
+{
+background-color:#4867aa;
+}
+#logo
+{
+margin-left:180px;
+}
+#form
+{
+position: fixed;
+margin-left:550px;
+margin-top:-100px;
+}
+#img
+{
+ position: fixed;
+ margin-left:50px;
+ margin-top: 25px;
+}
+
+#regform
+{
+ 
+    position: fixed;
+    margin-left: 650px;
+    margin-top: 20px;
+}
+.container
+{
+	padding:0;
+    width: 1110px;
+}
+#unerror
+{
+  margin: 0 0 10px;
+    position: absolute;
+    top: 65px;
+    color: red;
+}
+#pwderror
+{
+   position: absolute;
+    color: red;
+    margin: 65px;
+    left: 160px;
+    
+}
+input[type=text] {
+    
+    padding: 2px 8px;
+    margin: 8px 0;
+    
+}
+input[type=password]
+{
+    
+    padding: 2px 8px;
+    margin: 8px 0;
+
+    
+}
+.lab
+{
+  color:#ff0000;
+}
+
+
+#white{
+	background-color:#ffffff;
+	
+}
+
+
+.txtarea
+	{
+    z-index: auto;
+    position: relative;
+    letter-spacing: 2px;
+    width:400px;
+    ine-height: 20px;
+    font-size: 14px;
+    transition: none;
+    background: #ffffff !important;
+     border: none;
+   left:20px;
+    
+}
+.spansrch
+{
+	position: absolute;
+    left: 328px;
+}
+
+.add{
+	z-index: auto;
+    position: relative;
+    letter-spacing: 12px;
+    bottom: 20px;
+    ine-height: 20px;
+    font-size: 14px;
+    transition: none;
+    background: #3b5998 !important;
+    right: 55px;
+	
+}
+.field{
+	
+	height: 100px;
+   
+  
+    width:640px;
+    
+}
+.top-buffer { margin-top:100px; }
+#diverror{
+	background-color: white;
+    width: 500px;
+	    height: 350px;
+}
+
+.border{
+	border-right:1px solid grey;
+	
+}
